@@ -1,6 +1,6 @@
 # Objetivo
 
-Clasificación orientativa del **estado clínico simulado** en cuatro categorías, en el marco de la materia **MLOps (MIAA — ICESI)**.
+Modificar el pipeline y propuesta dcon respecto a la unidad 1 teniendo encuenta que durante las ultimas clase se vieron nuevas herramientas al igual que las nuevas investigaciones de un clasificador orientativo del **estado clínico simulado** en cuatro categorías, en el marco de la materia entrega unidad 3**MLOps (MIAA — ICESI)**.
 
 ## Contexto del problema
 
