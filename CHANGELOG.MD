@@ -28,7 +28,7 @@ Esta versión transforma la idea inicial del Punto 1 en un **pipeline MLOps docu
   | Explicabilidad | Implícita en reglas | **SHAP** documentado |
   | Gobernanza | No existía | Suposiciones S1–S10 y restricciones en `PROPUESTAPipeLine.md` |
 
-* **Diagrama general:** [`PipeLineML.png`](PipeLineML.png) en la raíz (visible en README y `PROPUESTAPipeLine.md`); misma topología que el ejemplo `entrega3`.
+* **Diagrama general:** [`PipeLineML.png`](imagen pipeline.png) en la raíz (visible en README y `PROPUESTAPipeLine.md`); misma topología que el ejemplo `entrega3`.
 * **Suposiciones:** tabla global S1–S10 + suposiciones **por etapa** (Data, Develop, Staging, PROD).
 * **Roles QA formalizados:** QA en Develop (`Api Deploy Dev`) y **QA Medical System simulado** en Staging, como en el ejemplo de referencia.
 * **Enfermedades huérfanas y desbalance:** política explícita para AGUDA (~1,9 %) y patologías no presentes en CSV.
